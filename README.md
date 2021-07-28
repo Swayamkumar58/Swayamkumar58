@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Swayamkumar58
 - 👀 I’m interested in Data Analysis
-- 🌱 Skillset - SQL , Python , Power BI
+- 🌱 Skillset - SQL , Python , Power BI , Excel
 - 📫 Mail : Swayamkumar58@gmail.com
 
 <!---
